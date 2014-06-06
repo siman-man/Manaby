@@ -1,4 +1,4 @@
 Manaby
 ======
 
-「学ぶ」+ 「Ruby」= Manaby
+「学ぶ」+「Ruby」= Manaby
