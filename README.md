@@ -1,4 +1,4 @@
 Manaby
 ======
 
-Ruby学習用ページ
+「学ぶ」+ 「Ruby」= Manaby
