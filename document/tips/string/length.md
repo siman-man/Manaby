@@ -1,6 +1,6 @@
 # 文字列の長さを取得する
 
-RubyではString#lengthまたはString#sizeで文字列の長さを取得することができます。
+Rubyでは**String#length**または**String#size**で文字列の長さを取得することができます。
 
 ```ruby
 "Hello".length  #=> 5
