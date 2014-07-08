@@ -1,0 +1,3 @@
+### 目次
+
+* [ハッシュの要素の数を調べる](https://github.com/siman-man/Manaby/blob/master/document/tips/Hash/length.md)
